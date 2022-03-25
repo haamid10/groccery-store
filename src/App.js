@@ -2,7 +2,7 @@ import Header from "./components/Header"
 import Main from "./components/Main"
 const App = () => {
   return (
-    <div className=" bg-gray-100 w-full h-screen">
+    <div className=" bg-gray-50 w-full h-screen">
 
       <Header/>
       <Main />
